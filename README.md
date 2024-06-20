@@ -19,9 +19,9 @@ This is an digital agency web test  build by edmichs with everything new in Next
 
 ## Running Locally
 
-1. Clone the repository
+1. Clone the Master branch on the repository
    ```bash
-   git clone https://github.com/edmichs/agence-digital-web.git
+   git clone --branch Master https://github.com/edmichs/agence-digital-web.git
    ```
 
 2. Install dependencies using npm
