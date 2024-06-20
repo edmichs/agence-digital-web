@@ -8,7 +8,6 @@ import {
   CardHeader,
   CardTitle,
 } from '@/components/ui/Card'
-import prisma from '@/lib/db'
 import { CategoryType } from '@/types/types'
 
 interface CategoryCardProps {
